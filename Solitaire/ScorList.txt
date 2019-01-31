@@ -1,0 +1,10 @@
+Ömer,Paylal,205
+Ünal,Kayaduman,300
+Yunus,Doðan,210
+Erhan,Atakan,195
+Erdem,Akbaba,350
+Furkan,Kaya,185
+Tanzer,Onurgil,180
+Anýl,Teke,175
+Derya,Birant,275
+Esin,Deniz,280
